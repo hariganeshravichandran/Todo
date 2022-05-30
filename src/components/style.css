@@ -1,0 +1,136 @@
+/* #heading {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid black;
+    margin-top: 45px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+   */
+  /* h1,
+  p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  table {
+    border-collapse: 1px solid;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #Todo_Input {
+    margin: 20px;
+  }
+  #Todo_Input input {
+    padding: 8px;
+    margin-right: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    outline: none;
+  }
+  
+  #Todo_List {
+    margin: 20px;
+  }
+  
+  #add_todo_btn {
+    border: none;
+    padding: 5px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f2aa4cff;
+    color: black;
+  } */
+  /* #todo_table_maindiv {
+    display: flex;
+  }
+  #todo_table {
+    margin-top: 55px;
+    border-collapse: collapse;
+  }
+  #todo_table table {
+    border-radius: 10px;
+  }
+  #todo_table th,
+  td {
+    border: 1px solid rgb(122, 122, 122);
+  }
+  
+  #todo_table th {
+    background-color: rgb(49, 49, 49);
+    color: white;
+  }
+  
+  #todo_table tr:hover {
+    background-color: rgb(245, 245, 245);
+  }
+  
+  tbody tr:nth-child() {
+    background-color: #a53c3cc9;
+  }
+  
+  #delete_btn {
+    background-color: rgb(55, 77, 102);
+    border: none;
+    padding: 5px 12px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .todo_order-btn {
+    background-color: rgb(55, 77, 102);
+    border: none;
+    padding: 5px 12px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  } */
+  /* #edit_btn {
+    background-color: #f2aa4cff;
+    border: none;
+    padding: 5px 12px;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  } */
+  /* #todo_search_input {
+    padding: 2px;
+    margin-right: 10px;
+    outline: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  #paginate_btn {
+    margin-top: 10px;
+    display: flex;
+  } */
+  /* #paginate_btn button {
+    border: none;
+    padding: 6px 8px;
+    background-color: rgb(49, 49, 49);
+    color: white;
+    border-radius: 5px;
+    justify-content: space-evenly;
+    margin-left: 3px;
+    cursor: pointer;
+  } */
+  
+  /* #Todo_List p {
+    word-break: break-all;
+  } */
+  /* #todo_table_btn {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  } */
+  /* #pages {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  } */
+  /* #todo_table_select {
+    padding: 3px 10px;
+  } */
+  
